@@ -12,7 +12,7 @@
 ********************************************************************************************************************************************************
 <h3 align="left">Team Connect Kreations:</h3>
 
-- 👨‍🎓 Founder: [Kamal Patel](www.connectkreations.com)
+- 👨‍🎓 Founder: [Kamal Patel](https://github.com/techiekamal21)
 
 - 👫🏽Our Team Member: **Suhas Mallya, Kriti Chandra, Akanksha**
 
