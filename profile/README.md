@@ -10,6 +10,13 @@
 <p align="left"> <a href="https://twitter.com/connectkreation" target="blank"><img src="https://img.shields.io/twitter/follow/connectkreation?logo=twitter&style=for-the-badge" alt="connectkreation" /></a> </p>
 
 ********************************************************************************************************************************************************
+<h3 align="left">Team Connect Kreations:</h3>
+
+- 👨‍🎓 Founder: [Kamal Patel](www.connectkreations.com)
+
+- 👫🏽Our Team Member: **Suhas Mallya, Kriti Chandra, Akanksha**
+
+********************************************************************************************************************************************************
 
 - 🔭 We are currently working on [Digital Services and Blogging](www.connectkreations.com)
 
