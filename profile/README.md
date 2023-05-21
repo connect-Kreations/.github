@@ -1,7 +1,7 @@
 ********************************************************************************************************************************************************
 
 <h1 align="center">Hi 👋, Wel-Come to Connect Kreations</h1>
-<h3 align="justify">Connect Kreations: Where We Think, We Create, We Grow. Unlock the power of web development, ignite your blogging passion, find exciting jobs, master new skills with free courses, and thrive as a freelancer. Join us today and soar in the digital world!</h3>
+<h3 align="justify">Connect Kreations: Where "We Think, We Create, We Grow". Unlock the power of web development, ignite your blogging passion, find exciting jobs, master new skills with free courses, and thrive as a freelancer. Join us today and soar in the digital world!</h3>
 
 ********************************************************************************************************************************************************
 
@@ -15,7 +15,7 @@
 
 - 👯 We are looking to collaborate on **E-learning content Development and Freelancing Services**
 
-- 👨‍💻 We are provide latest updates on [Jobs and Internship, Free courses and many more...](www.connectkreations.com)
+- 👨‍💻 We provide latest updates on [Jobs and Internship, Free courses and many more...](www.connectkreations.com)
 
 - 👨‍💻 All of our projects are available at [https://github.com/connect-Kreations](https://github.com/connect-Kreations)
 
