@@ -14,7 +14,7 @@
 
 - 👨‍🎓 Founder: [Kamal Patel](https://github.com/techiekamal21)
 
-- 👫🏽Our Team Member: **Suhas Mallya, Kriti Chandra, Akanksha**
+- 👫🏽Our Team Member: **Darshan, Suhas Mallya, Kriti Chandra, Akanksha**
 
 ********************************************************************************************************************************************************
 
