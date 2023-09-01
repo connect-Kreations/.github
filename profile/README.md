@@ -14,8 +14,6 @@
 
 - 👨‍🎓 Founder: [Kamal Patel](https://github.com/techiekamal21)
 
-- 👫🏽Our Team Member: **Darshan, Suhas Mallya, Kriti Chandra, Akanksha**
-
 ********************************************************************************************************************************************************
 
 - 🔭 We are currently working on [Digital Services and Blogging](www.connectkreations.com)
